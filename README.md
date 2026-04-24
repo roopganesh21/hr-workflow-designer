@@ -244,8 +244,7 @@ I used class-based dark mode so the theme can switch instantly without a page re
 
 ## Submission Info
 
-- Candidate: [Your Name]
+- Candidate: P Rup Ganesh
 - Role: Full Stack Engineering Intern — Tredence Analytics
-- Time taken: ~4-5 hours
-- GitHub: [your repo link]
+- GitHub: https://github.com/roopganesh21/hr-workflow-designer
 - Live Demo: [your vercel link]
