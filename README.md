@@ -8,19 +8,8 @@ HR Workflow Designer is a fully working visual workflow builder for HR operation
 
 ## Live Demo
 
-[View Live Demo](https://your-vercel-url.vercel.app)
+[View Live Demo](https://vercel.com/roopganesh21s-projects/hr-workflow-designer)
 
-Replace with your Vercel deployment URL.
-
-## Screenshots
-
-![Canvas View](./screenshots/canvas.png)
-
-![Node Form Panel](./screenshots/form-panel.png)
-
-![Simulation Panel](./screenshots/simulation.png)
-
-Add screenshots to `/screenshots` folder before submitting.
 
 ## Architecture
 
@@ -247,4 +236,4 @@ I used class-based dark mode so the theme can switch instantly without a page re
 - Candidate: P Rup Ganesh
 - Role: Full Stack Engineering Intern — Tredence Analytics
 - GitHub: https://github.com/roopganesh21/hr-workflow-designer
-- Live Demo: [your vercel link]
+- Live Demo:https://vercel.com/roopganesh21s-projects/hr-workflow-designer 
